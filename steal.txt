@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- TÍTULO QUE APARECE EN DISCORD -->
+  <meta property="og:title" content="Join Private Server" />
+  
+  <!-- DESCRIPCIÓN QUE APARECE EN DISCORD -->
+  <meta property="og:description" content="Check out 🪙 PLS DONATE 🪙. It’s one of the millions of unique, user-generated 3D experiences created on Roblox. 🪙 PLS DONATE is a game where you can raise Robux or donate to others! Create your gamepasses and claim a stand today to start earning Robux! Your items (clothing, gamepasses, etc) for sale will automagically appear on your stand…" />
+
+  <!-- IMAGEN QUE APARECE EN DISCORD -->
+  <meta property="og:image" content="https://tr.rbxcdn.com/c10117498ae52566285b852b30c37f37/420/420/Image/Png" />
+  
+  <!-- URL DEL LINK (SE MOSTRARÁ EN DISCORD) -->
+  <meta property="og:url" content="https://TU-USUARIO.github.io/TU-REPO/" />
+
+  <!-- REDIRECCIÓN AUTOMÁTICA -->
+  <meta http-equiv="refresh" content="0; url=https://www.roblox.com/share?code=85ba03c00ce7324b916b3c1900aebf7d&type=Server" />
+
+  <title>Redirecting...</title>
+</head>
+<body>
+  <p>Redirecting to Roblox private server...</p>
+</body>
+</html>
